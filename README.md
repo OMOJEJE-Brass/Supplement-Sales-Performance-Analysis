@@ -15,6 +15,7 @@
 
 ## Objective
 ##### The objective of this analysis is to evaluate weekly supplement sales performance across various product categories, platforms, and locations. By leveraging Excel's data analysis tools, the project seeks to uncover trends, measure key performance indicators (KPIs), and provide insights that support strategic decision-making in sales, marketing, and operations.
+## Data Source: The Data was downloaded from [kaggle].(https://www.kaggle.com/datasets/mariamabdelnasser/supplement) loaded in Excel
 
 ## Data Cleaning
 ##### •	The data does not contain blanks.
