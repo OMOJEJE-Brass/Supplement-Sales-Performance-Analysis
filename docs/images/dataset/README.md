@@ -5,7 +5,7 @@
 - [Data Cleaning](#Data-Cleaning)
 - [Insights](#Insights)
 - [Conclusion](#Conclusion)
-- [Recommendation](#Recommendation)
+- [Recommendations](#Recommendations)
   
 ## Introduction
 ##### This analysis explores weekly sales performance data for various supplement products across multiple platforms and locations. The goal is to gain actionable insights into sales trends, product performance, customer returns, and the impact of discounts on purchase behavior. By examining key metrics such as total revenue, units sold, return rates, and platform-specific performance, this report aims to identify growth opportunities, inefficiencies, and patterns that can support data-driven decision-making. 
