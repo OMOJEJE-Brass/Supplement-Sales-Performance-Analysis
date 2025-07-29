@@ -1,8 +1,10 @@
-"Supplement Sales Performance Analysis & Insights Dashboard"
-Introduction
-This analysis explores weekly sales performance data for various supplement products across multiple platforms and locations. The goal is to gain actionable insights into sales trends, product performance, customer returns, and the impact of discounts on purchase behavior. By examining key metrics such as total revenue, units sold, return rates, and platform-specific performance, this report aims to identify growth opportunities, inefficiencies, and patterns that can support data-driven decision-making.
-The dataset, titled "Supplement_Sales_Weekly_Expanded", includes information such as product categories, pricing, discounts applied, and the number of units returned. Through the use of Excel PivotTables, charts, and slicers, an interactive dashboard has been developed to provide a clear overview of business performance and assist stakeholders in strategic planning.
-Objective
+# "Supplement Sales Performance Analysis & Insights Dashboard"
+
+## Introduction
+##### This analysis explores weekly sales performance data for various supplement products across multiple platforms and locations. The goal is to gain actionable insights into sales trends, product performance, customer returns, and the impact of discounts on purchase behavior. By examining key metrics such as total revenue, units sold, return rates, and platform-specific performance, this report aims to identify growth opportunities, inefficiencies, and patterns that can support data-driven decision-making. 
+##### The dataset, titled "Supplement_Sales_Weekly_Expanded", includes information such as product categories, pricing, discounts applied, and the number of units returned. Through the use of Excel PivotTables, charts, and slicers, an interactive dashboard has been developed to provide a clear overview of business performance and assist stakeholders in strategic planning.
+
+## Objective
 The objective of this analysis is to evaluate weekly supplement sales performance across various product categories, platforms, and locations. By leveraging Excel's data analysis tools, the project seeks to uncover trends, measure key performance indicators (KPIs), and provide insights that support strategic decision-making in sales, marketing, and operations.
 Data Cleaning
 •	The data does not contain blanks.
