@@ -40,42 +40,42 @@ Quarterly Trend: Q1 (Jan–Mar): Strongest sales (187,618 units). Q4 (Oct–Dec)
    
 ## Conclusion
 ##### The analysis of sales, revenue, discounts, platforms, locations, and return rates provides clear insights into business performance:
-1.	Sales and Revenue Trends:
-March achieved the highest revenue (₦2,271,026.40), with January and March leading in units sold (64,780 and 65,398 respectively). The period from April to July experienced below-average performance, while October to December showed stable revenue (~₦1.8M–₦1.85M). Q1 (Jan–Mar) emerged as the strongest quarter, whereas Q4 (Oct–Dec) was the weakest in terms of total sales (156,272 units).
-2.	Product Performance:
+#### 1.	Sales and Revenue Trends:
+##### March achieved the highest revenue (₦2,271,026.40), with January and March leading in units sold (64,780 and 65,398 respectively). The period from April to July experienced below-average performance, while October to December showed stable revenue (~₦1.8M–₦1.85M). Q1 (Jan–Mar) emerged as the strongest quarter, whereas Q4 (Oct–Dec) was the weakest in terms of total sales (156,272 units).
+#### 2.	Product Performance:
 Products like Biotin, Zinc, and Pre-Workout are top performers in both revenue and units sold, reflecting strong consumer demand and effective pricing strategies. Vitamin and Mineral supplements dominate the market, contributing significantly to overall revenue.
-3.	Discount Impact:
-The High Discount group (11%–20%) drives the largest share of both units sold (39.5%) and revenue (39.4%), proving that moderate discounts are effective. However, deeper discounts (21% and above) contribute only 17.5% of revenue, suggesting diminishing returns on heavy discounting.
-4.	Platforms & Locations:
-iHerb leads in revenue (₦7,855,261.05) and units sold (225,427), accounting for ~34% of total revenue. Amazon follows closely, while Walmart trails with 32% of total revenue. Geographically, Canada leads in both revenue and units sold, while the UK records slightly higher return volumes.
-5.	Returns:
-The overall return rate of 1.02% is low, indicating strong product quality and customer satisfaction. Vitamin C has the highest return rate (1.12%), and categories like Hydration (1.07%) have slightly above-average returns.
-6.	Seasonality:
-Sales peaks in January and March suggest seasonal demand linked to New Year health goals and pre-summer fitness trends. September, June, and December are the weakest months, possibly due to seasonal slumps or pre-holiday shifts in spending.
-7.	Platform-Product Performance:
-Biotin (6.49%), BCAA (6.39%), and Zinc (6.47%) are the top revenue generators across platforms. iHerb outperforms both Amazon and Walmart in total revenue and unit share, showing it is the preferred channel for consumers.
+#### 3.	Discount Impact:
+##### The High Discount group (11%–20%) drives the largest share of both units sold (39.5%) and revenue (39.4%), proving that moderate discounts are effective. However, deeper discounts (21% and above) contribute only 17.5% of revenue, suggesting diminishing returns on heavy discounting.
+#### 4.	Platforms & Locations:
+##### iHerb leads in revenue (₦7,855,261.05) and units sold (225,427), accounting for ~34% of total revenue. Amazon follows closely, while Walmart trails with 32% of total revenue. Geographically, Canada leads in both revenue and units sold, while the UK records slightly higher return volumes.
+#### 5.	Returns:
+##### The overall return rate of 1.02% is low, indicating strong product quality and customer satisfaction. Vitamin C has the highest return rate (1.12%), and categories like Hydration (1.07%) have slightly above-average returns.
+#### 6.	Seasonality:
+##### Sales peaks in January and March suggest seasonal demand linked to New Year health goals and pre-summer fitness trends. September, June, and December are the weakest months, possibly due to seasonal slumps or pre-holiday shifts in spending.
+#### 7.	Platform-Product Performance:
+##### Biotin (6.49%), BCAA (6.39%), and Zinc (6.47%) are the top revenue generators across platforms. iHerb outperforms both Amazon and Walmart in total revenue and unit share, showing it is the preferred channel for consumers.
 
 ## Recommendations
-1.	Leverage Seasonal Peaks:
-•	Increase marketing campaigns and product availability before January and March to capitalize on peak sales periods.
-•	Launch targeted promotions in Q1 to boost revenue further.
-2.	Optimize Discounts:
-•	Maintain discount levels between 11%–20%, as they yield the highest sales and revenue contribution.
-•	Avoid deep discounting (21%+), as it leads to lower revenue share without significant unit sales growth.
-3.	Focus on Best-Selling Products:
-•	Continue prioritizing Biotin, Zinc, and Pre-Workout in advertising and inventory planning.
-•	Introduce bundle promotions for Vitamin and Mineral supplements, leveraging their strong market demand.
-4.	Platform Strategy:
-•	Strengthen partnerships with iHerb while exploring strategies to boost Amazon’s revenue share.
-•	For Walmart, focus on targeted promotions to close the performance gap.
-5.	Return Rate Monitoring:
-•	Investigate the slightly higher return rate of Vitamin C (1.12%) and address potential issues (e.g., product quality or marketing misalignment).
-6.	Geographic Focus:
-•	Invest in Canada and UK markets, which drive the majority of sales.
-•	Evaluate strategies for improving customer satisfaction in the UK, where returns are slightly higher.
-7.	Long-Term Trends:
-•	Develop a quarterly sales strategy focusing on Q2 and Q4, which currently show weaker performance.
-•	Use data-driven promotions to even out seasonal dips.
+#### 1.	Leverage Seasonal Peaks:
+##### •	Increase marketing campaigns and product availability before January and March to capitalize on peak sales periods.
+##### •	Launch targeted promotions in Q1 to boost revenue further.
+#### 2.	Optimize Discounts:
+##### •	Maintain discount levels between 11%–20%, as they yield the highest sales and revenue contribution.
+##### •	Avoid deep discounting (21%+), as it leads to lower revenue share without significant unit sales growth.
+#### 3.	Focus on Best-Selling Products:
+##### •	Continue prioritizing Biotin, Zinc, and Pre-Workout in advertising and inventory planning.
+##### •	Introduce bundle promotions for Vitamin and Mineral supplements, leveraging their strong market demand.
+#### 4.	Platform Strategy:
+##### •	Strengthen partnerships with iHerb while exploring strategies to boost Amazon’s revenue share.
+##### •	For Walmart, focus on targeted promotions to close the performance gap.
+#### 5.	Return Rate Monitoring:
+##### •	Investigate the slightly higher return rate of Vitamin C (1.12%) and address potential issues (e.g., product quality or marketing misalignment).
+#### 6.	Geographic Focus:
+##### •	Invest in Canada and UK markets, which drive the majority of sales.
+##### •	Evaluate strategies for improving customer satisfaction in the UK, where returns are slightly higher.
+#### 7.	Long-Term Trends:
+##### •	Develop a quarterly sales strategy focusing on Q2 and Q4, which currently show weaker performance.
+##### •	Use data-driven promotions to even out seasonal dips.
 
 
 
