@@ -1,11 +1,11 @@
 # "Supplement Sales Performance Analysis & Insights Dashboard"
 ## Table of Contents
-- ![Introduction]
-- ![Objective]
-- ![Data-Cleaning]
-- ![Insights]
-- ![Conclusion]
-- [RecommRecommendation]
+- [Introduction](#Introduction)
+- [Objective](#Objective)
+- [Data Cleaning](#Data-Cleaning)
+- [Insights](#Insights)
+- [Conclusion](#Conclusion)
+- [Recommendation](#Recommendation)
   
 ## Introduction
 ##### This analysis explores weekly sales performance data for various supplement products across multiple platforms and locations. The goal is to gain actionable insights into sales trends, product performance, customer returns, and the impact of discounts on purchase behavior. By examining key metrics such as total revenue, units sold, return rates, and platform-specific performance, this report aims to identify growth opportunities, inefficiencies, and patterns that can support data-driven decision-making. 
@@ -16,7 +16,8 @@ The objective of this analysis is to evaluate weekly supplement sales performanc
 Data Cleaning
 •	The data does not contain blanks.
 •	The data has no duplicates 
-Questions guiding my analysis
+
+## Questions guiding my analysis
 1.	What are the overall sales and revenue trends over time?
 2.	Which products and categories generate the highest revenue and units sold?
 3.	How do discounts influence sales performance and customer purchasing behavior?
@@ -25,9 +26,7 @@ Questions guiding my analysis
 6.	 Are there seasonal or periodic patterns in customer demand?
 7.	 Which combinations of product, platform, and location drive the best results?
 
-
-
-Insights
+## Insights
 1.	 March had the highest revenue of ₦2,271,026.40, January and March had the highest units sold: 64,780 and 65,398, respectively. April had the lowest revenue of ₦1,685,662.30 and September had the lowest units sold of 50,204. Additionally, from April to July, revenue and unit sales were generally below average. Then, from October to December, the performance shows a relatively stable trend (~₦1.8M–₦1.85M revenue).
 2.	Products with the highest revenue (e.g., Biotin, Zinc, Pre-Workout) also rank high in units sold, suggesting strong price-to-volume consistency and healthy demand. The small variance in units sold indicates that pricing strategies or product positioning, rather than quantity alone, may be the key revenue differentiator. Vitamin and Mineral supplements dominate both revenue and unit sales, indicating strong consumer preference and market demand.
 3.	The “High Discount” group (11%–20%) contributes the highest share of both units sold (39.5%) and revenue (39.4%). The “Higher Discount” group (21% and above) (presumably deeper cuts) contributes only 17.5% of revenue, despite being the second-highest in discount level. Low (0%–5%) and Normal-Discount (6%–10%) groups account for 43% of total revenue, nearly matching that of the High-Discount tier.
@@ -37,7 +36,8 @@ b. Canada leads in both Units Sold (226,053) and Revenue (₦7,848,579.73), acco
 6.	March (65,398 units) and January (64,780 units) have the highest sales. These peaks might be linked to seasonal events, e.g., New Year resolutions (January) and pre-summer health/fitness demand (March). September (50,204 units), June (50,555 units), and December (50,515 units) record the lowest sales. December’s drop could indicate that customers purchase earlier in the year, or there’s less demand around holiday seasons. Sales between May and August show moderate demand, with values between 52,000–55,000 units. 
 Quarterly Trend: Q1 (Jan–Mar): Strongest sales (187,618 units). Q4 (Oct–Dec): Weakest sales (156,272 units).
 7.	Biotin (6.49%), BCAA (6.39%), and Zinc (6.47%) have the highest total revenue contribution across all platforms, indicating they are consistently popular regardless of sales channel. Magnesium (5.94%) and Melatonin (6.10%) contribute the least among the listed products, suggesting lower demand or lower pricing. iHerb (34.28%) accounts for the largest share of total revenue, slightly outperforming Amazon (33.47%) and Walmart (32.25%).
-Conclusion
+   
+## Conclusion
 The analysis of sales, revenue, discounts, platforms, locations, and return rates provides clear insights into business performance:
 1.	Sales and Revenue Trends:
 March achieved the highest revenue (₦2,271,026.40), with January and March leading in units sold (64,780 and 65,398 respectively). The period from April to July experienced below-average performance, while October to December showed stable revenue (~₦1.8M–₦1.85M). Q1 (Jan–Mar) emerged as the strongest quarter, whereas Q4 (Oct–Dec) was the weakest in terms of total sales (156,272 units).
@@ -53,7 +53,8 @@ The overall return rate of 1.02% is low, indicating strong product quality and c
 Sales peaks in January and March suggest seasonal demand linked to New Year health goals and pre-summer fitness trends. September, June, and December are the weakest months, possibly due to seasonal slumps or pre-holiday shifts in spending.
 7.	Platform-Product Performance:
 Biotin (6.49%), BCAA (6.39%), and Zinc (6.47%) are the top revenue generators across platforms. iHerb outperforms both Amazon and Walmart in total revenue and unit share, showing it is the preferred channel for consumers.
-Recommendations
+
+## Recommendations
 1.	Leverage Seasonal Peaks:
 •	Increase marketing campaigns and product availability before January and March to capitalize on peak sales periods.
 •	Launch targeted promotions in Q1 to boost revenue further.
