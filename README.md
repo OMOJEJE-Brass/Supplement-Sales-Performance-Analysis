@@ -41,7 +41,7 @@
 ##### b. Canada leads in both Units Sold (226,053) and Revenue (₦7,848,579.73), accounting for approximately 34% of total revenue and 34% of total units sold. The UK ranks second with 221,237 units sold and ₦7,703,960.34 revenue, contributing about 33% of total revenue. Total returns across all locations = 6,714 units. However, the UK also recorded the highest returns (2,327 units) among all locations.
 ##### 5.	The overall return rate across all products is approximately 1.02% (0.01019624), which is relatively low, with Vitamin C having the highest return rate of 1.12%. The overall return rate across all categories is 1.02%, which aligns closely with product-level findings, but Hydration has the highest which is 1.07% return rate.
 ##### 6.	March (65,398 units) and January (64,780 units) have the highest sales. These peaks might be linked to seasonal events, e.g., New Year resolutions (January) and pre-summer health/fitness demand (March). September (50,204 units), June (50,555 units), and December (50,515 units) record the lowest sales. December’s drop could indicate that customers purchase earlier in the year, or there’s less demand around holiday seasons. Sales between May and August show moderate demand, with values between 52,000–55,000 units. 
-Quarterly Trend: Q1 (Jan–Mar): Strongest sales (187,618 units). Q4 (Oct–Dec): Weakest sales (156,272 units).
+#### Quarterly Trend: Q1 (Jan–Mar): Strongest sales (187,618 units). Q4 (Oct–Dec): Weakest sales (156,272 units).
 ##### 7.	Biotin (6.49%), BCAA (6.39%), and Zinc (6.47%) have the highest total revenue contribution across all platforms, indicating they are consistently popular regardless of sales channel. Magnesium (5.94%) and Melatonin (6.10%) contribute the least among the listed products, suggesting lower demand or lower pricing. iHerb (34.28%) accounts for the largest share of total revenue, slightly outperforming Amazon (33.47%) and Walmart (32.25%).
 
 ## Conclusion
@@ -57,7 +57,7 @@ Quarterly Trend: Q1 (Jan–Mar): Strongest sales (187,618 units). Q4 (Oct–Dec)
 #### 5.	Returns:
 ##### The overall return rate of 1.02% is low, indicating strong product quality and customer satisfaction. Vitamin C has the highest return rate (1.12%), and categories like Hydration (1.07%) have slightly above-average returns.
 #### 6.	Seasonality:
-Sales peaks in January and March suggest seasonal demand linked to New Year health goals and pre-summer fitness trends. September, June, and December are the weakest months, possibly due to seasonal slumps or pre-holiday shifts in spending.
+#### Sales peaks in January and March suggest seasonal demand linked to New Year health goals and pre-summer fitness trends. September, June, and December are the weakest months, possibly due to seasonal slumps or pre-holiday shifts in spending.
 #### 7.	Platform-Product Performance:
 ##### Biotin (6.49%), BCAA (6.39%), and Zinc (6.47%) are the top revenue generators across platforms. iHerb outperforms both Amazon and Walmart in total revenue and unit share, showing it is the preferred channel for consumers.
 
